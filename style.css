@@ -8,3 +8,6 @@ body{
 h2 {
     color :blue
 }
+.titulo{
+    text-align: right;
+}
